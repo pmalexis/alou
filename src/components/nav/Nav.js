@@ -8,11 +8,7 @@ export default class Nav extends Component {
     render() {
         return (
             <div className="Nav-header">
-                <div className={'Left-block'}>
-                    <Logo/>
-                </div>
-
-
+                <Logo/>
             </div>
         );
     }

@@ -1,0 +1,19 @@
+.AppBody.show .ContainerPokemon {
+    left: 30%;
+}
+
+.AppBody.show .Card {
+    left: 75%;
+}
+
+.AppBody.fixed {
+    margin-top: 200px;
+}
+
+.AppBody.scroll .Filter {
+    transform: translateY(-100%);
+}
+
+.AppBody.fixed .Filter {
+    position: fixed;
+}

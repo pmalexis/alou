@@ -1,0 +1,17 @@
+.Pokemon {
+    cursor: pointer;
+    width: 150px;
+    height: 150px;
+
+    margin-bottom: 20px;
+
+    border: 1px solid #D5D5D5;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Pokemon img {
+    max-height: 140px;
+}

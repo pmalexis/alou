@@ -1,0 +1,12 @@
+.ContainerPokemon {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    width: 750px;
+
+    transition-duration: 0.5s;
+}
