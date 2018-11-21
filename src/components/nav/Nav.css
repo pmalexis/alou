@@ -1,0 +1,9 @@
+.Nav-header {
+    height: 110px;
+    background-color: transparent;
+    width: 100%;
+    position: absolute;
+    z-index: 100;
+    left: 0;
+    top: 0;
+}
