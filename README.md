@@ -8,7 +8,13 @@ Install npm to start the project
 npm install
 ```
 
-And start after that
+After that install jquery
+
+```sh
+npm install jquery
+```
+
+At last start
 
 ```sh
 npm start
